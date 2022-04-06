@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Calendar </title>
+        <link rel="stylesheet" href="Style.css">
+        <center><input type="button" onclick="loadXMLDoc()" value="Details"></center>
+    </head>
+    <body>
+        
+        <div class="calendar">
+            <div class="calendar-picture">
+                <h2></h2>
+                <h3></h3>
+            </div>
+            <div class="calendar_date"id="lc">
+                <div class="calendar_day">SUN</div>
+                <div class="calendar_day">MON</div>
+                <div class="calendar_day">TUE</div>
+                <div class="calendar_day">WED</div>
+                <div class="calendar_day">THU</div>
+                <div class="calendar_day">FRI</div>
+                <div class="calendar_day">SAT</div>
+            </div>
+        </div>
+            <script src="moment.js"></script>
+            <script src="Script.js"></script>
+            <script>
+                function loadXMLDoc()
+{
+    var x;
+	var xmlhttp = new XMLHttpRequest();
+	xmlhttp.onreadystatechange = function () 
+	{
+        // Request finished and response
+		// is ready and Status is "OK"
+		if (this.readyState == 4 && this.status == 200) 
+		{
+			panchangDetails(this);
+		}
+	};
+	// Jan 2023.xml is the external xml file
+	xmlhttp.open("GET", "Jan 2023.xml", true);
+	xmlhttp.send();
+}
+
+function panchangDetails(xml) 
+{
+    var xmlDoc = xml.responseXML;
+	var x = xmlDoc.getElementsByTagName("Panchang-Information");
+	// Start to fetch the data by using TagName
+	for (i = 0; i < x.length; i++) 
+	{
+		xmlDoc=(new DOMParser()).parseFromString(xml.responseText,'text/xml');
+		var x = xmlDoc.getElementsByTagName("Panchang-Information");
+        var Nakshathra = x[i].getElementsByTagName("Information")[2].childNodes[0].nodeValue; 
+		var Thithi = x[i].getElementsByTagName("Information")[3].childNodes[0].nodeValue; 
+		var Yoga = x[i].getElementsByTagName("Information")[5].childNodes[0].nodeValue; 
+		var Karana = x[i].getElementsByTagName("Information")[6].childNodes[0].nodeValue;
+		document.write("Nakshathra="+Nakshathra+"<br>");
+		document.write("Thithi="+Thithi+"<br>");
+		document.write("Yoga="+Yoga+"<br>");
+		document.write("Karana="+Karana+"<br><br><br>");
+	}
+}
+            </script>
+    </body>
+</html>

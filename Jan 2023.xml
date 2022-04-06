@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Astrosoft xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Panchang Location="Chennai   ,   Tamil Nadu   ,   India">
+        <Month Title="Panchang for Jan 2023">
+            <Panchang-Information>
+                <Information Name="Date">Jan 1 2023</Information>
+                <Information Name="Day">Sunday</Information>
+                <Information Name="Nakshathra ( End  ) ">Ashwini ( 12:48 ) </Information>
+                <Information Name="Thithi ( End  ) ">Dasami ( 19:11 ) </Information>
+                <Information Name="Paksha">Shukla</Information>
+                <Information Name="Yoga ( End  ) ">Siva ( 07:23 ) </Information>
+                <Information Name="Karana ( End  ) ">Taitula ( 06:48 )  , Garija ( 19:11 ) </Information>
+                <Information Name="Sunrise">06:31 AM</Information>
+                <Information Name="Sunset">05:53 PM</Information>
+                <Information Name="Auspicious Time">07.30 - 10.00 am, 02.00 - 04.30 pm, 09.00 pm - 12.00 am</Information>
+                <Information Name="Rahu Kala">04:30 PM - 06:00 PM</Information><Information Name="Yama Kanda">12:00 PM - 1:30 PM</Information>
+            </Panchang-Information>
+            <Panchang-Information>
+                <Information Name="Date">Jan 2 2023</Information>
+                <Information Name="Day">Monday</Information>
+                <Information Name="Nakshathra ( End  ) ">Bharani ( 14:23 ) </Information>
+                <Information Name="Thithi ( End  ) ">Ekaadasi ( 20:23 ) </Information>
+                <Information Name="Paksha">Shukla</Information>
+                <Information Name="Yoga ( End  ) ">Siddha ( 06:56 ) </Information>
+                <Information Name="Karana ( End  ) ">Vanija ( 07:44 )  , Visti ( 20:23 ) </Information>
+                <Information Name="Sunrise">06:31 AM</Information>
+                <Information Name="Sunset">05:54 PM</Information>
+                <Information Name="Auspicious Time">06.00 - 07.00 am , 12.00 - 02.00 pm, 06.00 - 09.00 pm , 10.00 - 11.00 pm</Information>
+                <Information Name="Rahu Kala">07:30 AM - 09:00 AM</Information>
+                <Information Name="Yama Kanda">10:30 AM - 12:00 AM</Information>
+            </Panchang-Information>
+            <Panchang-Information>
+                <Information Name="Date">Jan 3 2023</Information>
+                <Information Name="Day">Tuesday</Information>
+                <Information Name="Nakshathra ( End  ) ">Krithika ( 16:25 ) </Information>
+                <Information Name="Thithi ( End  ) ">Dvaadasi ( 22:02 ) </Information>
+                <Information Name="Paksha">Shukla</Information>
+                <Information Name="Yoga ( End  ) ">Sadhya ( 06:52 ) </Information>
+                <Information Name="Karana ( End  ) ">Bava ( 09:10 )  , Balava ( 22:02 ) </Information>
+                <Information Name="Sunrise">06:31 AM</Information>
+                <Information Name="Sunset">05:54 PM</Information>
+                <Information Name="Auspicious Time">10.30 - 11.00 am, 12.00 - 01.00 pm , 04.30 - 06.00 pm , 07.00 - 08.00 pm</Information>
+                <Information Name="Rahu Kala">03:00 PM - 4:30 PM</Information>
+                <Information Name="Yama Kanda">09:00 AM - 10:30 AM</Information>
+            </Panchang-Information>
+            <Panchang-Information>
+                <Information Name="Date">Jan 4 2023</Information>
+                <Information Name="Day">Wednesday</Information>
+                <Information Name="Nakshathra ( End  ) ">Rohini ( 18:48 ) </Information>
+                <Information Name="Thithi ( End  ) ">Thrayodasi ( 24:01 ) </Information>
+                <Information Name="Paksha">Shukla</Information>
+                <Information Name="Yoga ( End  ) ">Subha ( 07:05 ) </Information>
+                <Information Name="Karana ( End  ) ">Kaulava ( 10:59 )  , Taitula ( 24:01 ) </Information>
+                <Information Name="Sunrise">06:32 AM</Information>
+                <Information Name="Sunset">05:55 PM</Information>
+                <Information Name="Auspicious Time">09.00 - 10.00 am, 01.30 - 03.00 pm , 04.00 - 05.00 pm, 07.00 - 10.00 pm , 11.00 pm - 12.00 am</Information>
+                <Information Name="Rahu Kala">12:00 PM - 01:30 PM</Information>
+                <Information Name="Yama Kanda">07:30 AM - 09:00 AM</Information>
+            </Panchang-Information>
+            <Panchang-Information>
+                <Information Name="Date">Jan 5 2023</Information>
+                <Information Name="Day">Thursday</Information>
+                <Information Name="Nakshathra ( End  ) ">Mrigasira ( 21:25 ) </Information>
+                <Information Name="Thithi ( End  ) ">Chathurdasi ( 26:14 ) </Information>
+                <Information Name="Paksha">Shukla</Information>
+                <Information Name="Yoga ( End  ) ">Sukla ( 07:33 ) </Information>
+                <Information Name="Karana ( End  ) ">Garija ( 13:06 )  , Vanija ( 26:14 ) </Information>
+                <Information Name="Sunrise">06:32 AM</Information>
+                <Information Name="Sunset">05:55 PM</Information>
+                <Information Name="Auspicious Time">09.00 - 10.30 am, 01.00 - 01.30 pm , 04.30 - 06.00 pm, 06.00 - 07.00 pm , 08.00 - 09.00 pm</Information>
+                <Information Name="Rahu Kala">01:30 PM - 03:00 PM</Information>
+                <Information Name="Yama Kanda">06:00 AM - 07:30 AM</Information>
+            </Panchang-Information>
+            <Panchang-Information>
+                <Information Name="Date">Jan 6 2023</Information>
+                <Information Name="Day">Friday</Information>
+                <Information Name="Nakshathra ( End  ) ">Ardra ( 24:13 ) </Information>
+                <Information Name="Thithi ( End  ) ">Pournami ( 28:37 ) </Information>
+                <Information Name="Paksha">Shukla</Information>
+                <Information Name="Yoga ( End  ) ">Brahma ( 08:09 ) </Information>
+                <Information Name="Karana ( End  ) ">Visti ( 15:25 )  , Bava ( 28:37 ) </Information>
+                <Information Name="Sunrise">06:33 AM</Information>
+                <Information Name="Sunset">05:56 PM</Information>
+                <Information Name="Auspicious Time">06.00 - 09.00  am, 01.00 - 01.30 pm , 05.00 - 06.00 pm, 08.00 - 9.00 pm , 10.30 - 11.00 pm</Information>
+                <Information Name="Rahu Kala">10:30 AM - 12:00 PM</Information>
+                <Information Name="Yama Kanda">03:00 PM - 04:30 PM</Information>
+            </Panchang-Information>
+                <Panchang-Information>
+                    <Information Name="Date">Jan 7 2023</Information>
+                    <Information Name="Day">Saturday</Information>
+                    <Information Name="Nakshathra ( End  ) ">Punarvasu ( 27:07 ) </Information>
+                    <Information Name="Thithi ( End  ) ">Prathamai ( 31:07 ) </Information>
+                    <Information Name="Paksha">Krishna</Information>
+                    <Information Name="Yoga ( End  ) ">Indra ( 08:53 ) </Information>
+                    <Information Name="Karana ( End  ) ">Balava ( 17:52 )  , Kaulava ( 31:07 ) </Information>
+                    <Information Name="Sunrise">06:33 AM</Information>
+                    <Information Name="Sunset">05:57 PM</Information>
+                    <Information Name="Auspicious Time">07.00 - 07.30 am , 10.30 - 12.00 pm, 12.00 - 01.00 pm , 05.00 - 06.00 pm, 06.00 - 07.30 pm , 09.00 - 10.00 pm</Information>
+                    <Information Name="Rahu Kala">09:00 AM - 10:30 AM</Information>
+                    <Information Name="Yama Kanda">01:30 PM - 03:00 PM</Information>
+                </Panchang-Information>
+                <Panchang-Information>
+                    <Information Name="Date">Jan 8 2023</Information>
+                    <Information Name="Day">Sunday</Information>
+                    <Information Name="Nakshathra ( End  ) ">Pushyami ( 30:05 ) </Information>
+                    <Information Name="Thithi ( End  ) ">Prathamai ( 07:07 ) </Information>
+                    <Information Name="Paksha">Krishna</Information>
+                    <Information Name="Yoga ( End  ) ">Vaidhriti ( 09:41 ) </Information>
+                    <Information Name="Karana ( End  ) ">Kaulava ( 07:07 )  , Taitula ( 20:23 ) </Information><Information Name="Sunrise">06:33 AM</Information>
+                    <Information Name="Sunset">05:57 PM</Information>
+                    <Information Name="Auspicious Time">07.30 - 10.00 am, 02.00 - 04.30 pm, 09.00 pm - 12.00 am</Information>
+                    <Information Name="Rahu Kala">04:30 PM - 06:00 PM</Information>
+                    <Information Name="Yama Kanda">12:00 PM - 1:30 PM</Information>
+                </Panchang-Information>
+                <Panchang-Information>
+                    <Information Name="Date">Jan 9 2023</Information>
+                    <Information Name="Day">Monday</Information>
+                    <Information Name="Nakshathra ( End  ) ">Pushyami ( 06:05 ) </Information>
+                    <Information Name="Thithi ( End  ) ">Dvithiyai ( 09:39 ) </Information>
+                    <Information Name="Paksha">Krishna</Information>
+                    <Information Name="Yoga ( End  ) ">Vishakambha ( 10:31 ) </Information>
+                    <Information Name="Karana ( End  ) ">Garija ( 09:39 )  , Vanija ( 22:55 ) </Information>
+                    <Information Name="Sunrise">06:33 AM</Information>
+                    <Information Name="Sunset">05:58 PM</Information>
+                    <Information Name="Auspicious Time">06.00 - 07.00 am , 12.00 - 02.00 pm, 06.00 - 09.00 pm , 10.00 - 11.00 pm</Information>
+                    <Information Name="Rahu Kala">07:30 AM - 09:00 AM</Information>
+                    <Information Name="Yama Kanda">10:30 AM - 12:00 AM</Information>
+                </Panchang-Information>
+                <Panchang-Information>
+                    <Information Name="Date">Jan 10 2023</Information>
+                    <Information Name="Day">Tuesday</Information>
+                    <Information Name="Nakshathra ( End  ) ">Ashlesha ( 09:00 ) </Information>
+                    <Information Name="Thithi ( End  ) ">Thrithiyai ( 12:09 ) </Information>
+                    <Information Name="Paksha">Krishna</Information>
+                    <Information Name="Yoga ( End  ) ">Priti ( 11:19 ) </Information>
+                    <Information Name="Karana ( End  ) ">Visti ( 12:09 )  , Bava ( 25:22 ) </Information>
+                    <Information Name="Sunrise">06:34 AM</Information>
+                    <Information Name="Sunset">05:58 PM</Information>
+                    <Information Name="Auspicious Time">10.30 - 11.00 am, 12.00 - 01.00 pm , 04.30 - 06.00 pm , 07.00 - 08.00 pm</Information>
+                    <Information Name="Rahu Kala">03:00 PM - 4:30 PM</Information>
+                    <Information Name="Yama Kanda">09:00 AM - 10:30 AM</Information>
+                </Panchang-Information>
+                <Panchang-Information>
+                    <Information Name="Date">Jan 11 2023</Information>
+                    <Information Name="Day">Wednesday</Information>
+                    <Information Name="Nakshathra ( End  ) ">Magha ( 11:49 ) </Information>
+                    <Information Name="Thithi ( End  ) ">Chathruthi ( 14:31 ) </Information>
+                    <Information Name="Paksha">Krishna</Information>
+                    <Information Name="Yoga ( End  ) ">Ayushman ( 12:01 ) </Information>
+                    <Information Name="Karana ( End  ) ">Balava ( 14:31 )  , Kaulava ( 27:37 )
+                    </Information>
+                    <Information Name="Sunrise">06:34 AM</Information>
+                    <Information Name="Sunset">05:59 PM</Information>
+                    <Information Name="Auspicious Time">09.00 - 10.00 am, 01.30 - 03.00 pm , 04.00 - 05.00 pm, 07.00 - 10.00 pm , 11.00 pm - 12.00 am</Information>
+                    <Information Name="Rahu Kala">12:00 PM - 01:30 PM</Information>
+                    <Information Name="Yama Kanda">07:30 AM - 09:00 AM</Information>
+                </Panchang-Information>
+                <Panchang-Information>
+                    <Information Name="Date">Jan 12 2023</Information>
+                    <Information Name="Day">Thursday</Information>
+                    <Information Name="Nakshathra ( End  ) ">Purva Phalguni ( 14:24 ) </Information>
+                    <Information Name="Thithi ( End  ) ">Panchami ( 16:37 ) </Information>
+                    <Information Name="Paksha">Krishna</Information>
+                    <Information Name="Yoga ( End  ) ">Saubhagya ( 12:31 ) </Information>
+                    <Information Name="Karana ( End  ) ">Taitula ( 16:37 )  , Garija ( 29:31 ) 
+                    </Information>
+                    <Information Name="Sunrise">06:34 AM</Information>
+                    <Information Name="Sunset">05:59 PM</Information>
+                    <Information Name="Auspicious Time">09.00 - 10.30 am, 01.00 - 01.30 pm , 04.30 - 06.00 pm, 06.00 - 07.00 pm , 08.00 - 09.00 pm</Information>
+                    <Information Name="Rahu Kala">01:30 PM - 03:00 PM</Information>
+                    <Information Name="Yama Kanda">06:00 AM - 07:30 AM</Information>
+                </Panchang-Information>
+                <Panchang-Information>
+                    <Information Name="Date">Jan 13 2023</Information>
+                    <Information Name="Day">Friday</Information>
+                    <Information Name="Nakshathra ( End  ) ">Uttra Phalguni ( 16:35 ) </Information>
+                    <Information Name="Thithi ( End  ) ">Sashti ( 18:17 ) </Information>
+                    <Information Name="Paksha">Krishna</Information>
+                    <Information Name="Yoga ( End  ) ">Sobhana ( 12:44 ) </Information>
+                    <Information Name="Karana ( End  ) ">Vanija ( 18:17 )  , Visti ( 30:55 ) </Information>
+                    <Information Name="Sunrise">06:34 AM</Information>
+                    <Information Name="Sunset">06:00 PM</Information>
+                    <Information Name="Auspicious Time">06.00 - 09.00  am, 01.00 - 01.30 pm , 05.00 - 06.00 pm, 08.00 - 9.00 pm , 10.30 - 11.00 pm</Information>
+                    <Information Name="Rahu Kala">10:30 AM - 12:00 PM</Information>
+                    <Information Name="Yama Kanda">03:00 PM - 04:30 PM</Information>
+                </Panchang-Information>
+                <Panchang-Information>
+                    <Information Name="Date">Jan 14 2023</Information>
+                    <Information Name="Day">Saturday</Information>
+                    <Information Name="Nakshathra ( End  ) ">Hasta ( 18:13 ) </Information>
+                    <Information Name="Thithi ( End  ) ">Sapthami ( 19:23 ) </Information>
+                    <Information Name="Paksha">Krishna</Information>
+                    <Information Name="Yoga ( End  ) ">Atiganda ( 12:32 ) </Information>
+                    <Information Name="Karana ( End  ) ">Visti ( 06:55 )  , Bava ( 19:23 ) </Information>
+                    <Information Name="Sunrise">06:35 AM</Information>
+                    <Information Name="Sunset">06:01 PM</Information>
+                    <Information Name="Auspicious Time">07.00 - 07.30 am , 10.30 - 12.00 pm, 12.00 - 01.00 pm , 05.00 - 06.00 pm, 06.00 - 07.30 pm , 09.00 - 10.00 pm</Information>
+                    <Information Name="Rahu Kala">09:00 AM - 10:30 AM</Information>
+                    <Information Name="Yama Kanda">01:30 PM - 03:00 PM</Information>
+                </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 15 2023</Information>
+                        <Information Name="Day">Sunday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Chitra ( 19:11 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Ashtami ( 19:45 ) </Information>
+                        <Information Name="Paksha">Krishna</Information>
+                        <Information Name="Yoga ( End  ) ">Sukarma ( 11:49 ) </Information>
+                        <Information Name="Karana ( End  ) ">Balava ( 07:40 )  , Kaulava ( 19:45 )
+                        </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:01 PM</Information>
+                        <Information Name="Auspicious Time">07.30 - 10.00 am, 02.00 - 04.30 pm, 09.00 pm - 12.00 am</Information>
+                        <Information Name="Rahu Kala">04:30 PM - 06:00 PM</Information>
+                        <Information Name="Yama Kanda">12:00 PM - 1:30 PM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 16 2023</Information>
+                        <Information Name="Day">Monday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Swathi ( 19:22 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Navami ( 19:20 ) </Information>
+                        <Information Name="Paksha">Krishna</Information>
+                        <Information Name="Yoga ( End  ) ">Dhriti ( 10:31 ) </Information>
+                        <Information Name="Karana ( End  ) ">Taitula ( 07:39 )  , Garija ( 19:20 )
+                        </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:02 PM</Information>
+                        <Information Name="Auspicious Time">06.00 - 07.00 am , 12.00 - 02.00 pm, 06.00 - 09.00 pm , 10.00 - 11.00 pm</Information>
+                        <Information Name="Rahu Kala">07:30 AM - 09:00 AM</Information>
+                        <Information Name="Yama Kanda">10:30 AM - 12:00 AM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 17 2023</Information>
+                        <Information Name="Day">Tuesday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Vishakha ( 18:45 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Dasami ( 18:05 ) </Information>
+                        <Information Name="Paksha">Krishna</Information>
+                        <Information Name="Yoga ( End  ) ">Sula ( 08:34 ) </Information>
+                        <Information Name="Karana ( End  ) ">Vanija ( 06:49 )  , Visti ( 18:05 ) 
+                        </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:02 PM</Information>
+                        <Information Name="Auspicious Time">10.30 - 11.00 am, 12.00 - 01.00 pm , 04.30 - 06.00 pm , 07.00 - 08.00 pm</Information>
+                        <Information Name="Rahu Kala">03:00 PM - 4:30 PM</Information>
+                        <Information Name="Yama Kanda">09:00 AM - 10:30 AM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 18 2023</Information>
+                        <Information Name="Day">Wednesday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Anuradha ( 17:22 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Ekaadasi ( 16:03 ) </Information>
+                        <Information Name="Paksha">Krishna</Information>
+                        <Information Name="Yoga ( End  ) ">Vriddhi ( 26:46 ) </Information>
+                        <Information Name="Karana ( End  ) ">Balava ( 16:03 )  , Kaulava ( 26:45 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:03 PM</Information>
+                        <Information Name="Auspicious Time">09.00 - 10.00 am, 01.30 - 03.00 pm , 04.00 - 05.00 pm, 07.00 - 10.00 pm , 11.00 pm - 12.00 am</Information>
+                        <Information Name="Rahu Kala">12:00 PM - 01:30 PM</Information>
+                        <Information Name="Yama Kanda">07:30 AM - 09:00 AM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 19 2023</Information>
+                        <Information Name="Day">Thursday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Jyeshta ( 15:17 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Dvaadasi ( 13:18 ) </Information>
+                        <Information Name="Paksha">Krishna</Information>
+                        <Information Name="Yoga ( End  ) ">Dhruva ( 23:03 ) </Information>
+                        <Information Name="Karana ( End  ) ">Taitula ( 13:18 )  , Garija ( 23:42 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:03 PM</Information>
+                        <Information Name="Auspicious Time">09.00 - 10.30 am, 01.00 - 01.30 pm , 04.30 - 06.00 pm, 06.00 - 07.00 pm , 08.00 - 09.00 pm</Information>
+                        <Information Name="Rahu Kala">01:30 PM - 03:00 PM</Information>
+                        <Information Name="Yama Kanda">06:00 AM - 07:30 AM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 20 2023</Information>
+                        <Information Name="Day">Friday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Moola ( 12:40 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Thrayodasi ( 10:00 ) </Information>
+                        <Information Name="Paksha">Krishna</Information>
+                        <Information Name="Yoga ( End  ) ">Vyaghat ( 18:56 ) </Information>
+                        <Information Name="Karana ( End  ) ">Vanija ( 10:00 )  , Visti ( 20:11 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:04 PM</Information>
+                        <Information Name="Auspicious Time">06.00 - 09.00  am, 01.00 - 01.30 pm , 05.00 - 06.00 pm, 08.00 - 9.00 pm , 10.30 - 11.00 pm</Information>
+                        <Information Name="Rahu Kala">10:30 AM - 12:00 PM</Information>
+                        <Information Name="Yama Kanda">03:00 PM - 04:30 PM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 21 2023</Information>
+                        <Information Name="Day">Saturday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Purva Ashadha ( 09:40 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Chathurdasi ( 06:17 ) </Information>
+                        <Information Name="Paksha">Krishna</Information>
+                        <Information Name="Yoga ( End  ) ">Harshana ( 14:34 ) </Information>
+                        <Information Name="Karana ( End  ) ">Sakuna ( 06:17 )  , Chatushpada ( 16:21 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:04 PM</Information>
+                        <Information Name="Auspicious Time">07.00 - 07.30 am , 10.30 - 12.00 pm, 12.00 - 01.00 pm , 05.00 - 06.00 pm, 06.00 - 07.30 pm , 09.00 - 10.00 pm</Information>
+                        <Information Name="Rahu Kala">09:00 AM - 10:30 AM</Information>
+                        <Information Name="Yama Kanda">01:30 PM - 03:00 PM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 22 2023</Information>
+                        <Information Name="Day">Sunday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Uttra Ashadha  ( 06:29 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Prathamai ( 22:27 ) </Information>
+                        <Information Name="Paksha">Shukla</Information>
+                        <Information Name="Yoga ( End  ) ">Vajra ( 10:05 ) </Information>
+                        <Information Name="Karana ( End  ) ">Kimstughna ( 12:24 )  , Bava ( 22:27 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:05 PM</Information>
+                        <Information Name="Auspicious Time">07.30 - 10.00 am, 02.00 - 04.30 pm, 09.00 pm - 12.00 am</Information>
+                        <Information Name="Rahu Kala">04:30 PM - 06:00 PM</Information>
+                        <Information Name="Yama Kanda">12:00 PM - 1:30 PM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 23 2023</Information>
+                        <Information Name="Day">Monday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Dhanishta ( 24:26 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Dvithiyai ( 18:43 ) </Information>
+                        <Information Name="Paksha">Shukla</Information>
+                        <Information Name="Yoga ( End  ) ">Vyatipatha ( 25:27 ) </Information>
+                        <Information Name="Karana ( End  ) ">Balava ( 08:33 )  , Kaulava ( 18:43 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:05 PM</Information>
+                        <Information Name="Auspicious Time">06.00 - 07.00 am , 12.00 - 02.00 pm, 06.00 - 09.00 pm , 10.00 - 11.00 pm</Information>
+                        <Information Name="Rahu Kala">07:30 AM - 09:00 AM</Information>
+                        <Information Name="Yama Kanda">10:30 AM - 12:00 AM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 24 2023</Information>
+                        <Information Name="Day">Tuesday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Shatabhisha ( 21:57 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Thrithiyai ( 15:22 ) </Information>
+                        <Information Name="Paksha">Shukla</Information>
+                        <Information Name="Yoga ( End  ) ">Variyan ( 21:36 ) </Information>
+                        <Information Name="Karana ( End  ) ">Garija ( 15:22 )  , Vanija ( 25:53 ) </Information>
+                        <Information Name="Sunrise">06:36 AM</Information>
+                        <Information Name="Sunset">06:06 PM</Information>
+                        <Information Name="Auspicious Time">10.30 - 11.00 am, 12.00 - 01.00 pm , 04.30 - 06.00 pm , 07.00 - 08.00 pm</Information>
+                        <Information Name="Rahu Kala">03:00 PM - 4:30 PM</Information>
+                        <Information Name="Yama Kanda">09:00 AM - 10:30 AM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 25 2023</Information>
+                        <Information Name="Day">Wednesday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Purva Bhadrapada ( 20:05 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Chathruthi ( 12:34 ) </Information>
+                        <Information Name="Paksha">Shukla</Information>
+                        <Information Name="Yoga ( End  ) ">Parigha ( 18:14 ) </Information>
+                        <Information Name="Karana ( End  ) ">Visti ( 12:34 )  , Bava ( 23:25 ) </Information>
+                        <Information Name="Sunrise">06:36 AM</Information>
+                        <Information Name="Sunset">06:06 PM</Information>
+                        <Information Name="Auspicious Time">09.00 - 10.00 am, 01.30 - 03.00 pm , 04.00 - 05.00 pm, 07.00 - 10.00 pm , 11.00 pm - 12.00 am</Information>
+                        <Information Name="Rahu Kala">12:00 PM - 01:30 PM</Information>
+                        <Information Name="Yama Kanda">07:30 AM - 09:00 AM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 26 2023</Information>
+                        <Information Name="Day">Thursday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Uttra Bhadrapada ( 18:56 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Panchami ( 10:28 ) </Information>
+                        <Information Name="Paksha">Shukla</Information>
+                        <Information Name="Yoga ( End  ) ">Siva ( 15:28 ) </Information>
+                        <Information Name="Karana ( End  ) ">Balava ( 10:28 )  , Kaulava ( 21:43 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:07 PM</Information>
+                        <Information Name="Auspicious Time">09.00 - 10.30 am, 01.00 - 01.30 pm , 04.30 - 06.00 pm, 06.00 - 07.00 pm , 08.00 - 09.00 pm</Information>
+                        <Information Name="Rahu Kala">01:30 PM - 03:00 PM</Information>
+                        <Information Name="Yama Kanda">06:00 AM - 07:30 AM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 27 2023</Information>
+                        <Information Name="Day">Friday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Revathi ( 18:36 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Sashti ( 09:10 ) </Information>
+                        <Information Name="Paksha">Shukla</Information>
+                        <Information Name="Yoga ( End  ) ">Siddha ( 13:21 ) </Information>
+                        <Information Name="Karana ( End  ) ">Taitula ( 09:10 )  , Garija ( 20:50 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:07 PM</Information>
+                        <Information Name="Auspicious Time">06.00 - 09.00  am, 01.00 - 01.30 pm , 05.00 - 06.00 pm, 08.00 - 9.00 pm , 10.30 - 11.00 pm</Information>
+                        <Information Name="Rahu Kala">10:30 AM - 12:00 PM</Information>
+                        <Information Name="Yama Kanda">03:00 PM - 04:30 PM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 28 2023</Information>
+                        <Information Name="Day">Saturday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Ashwini ( 19:05 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Sapthami ( 08:43 ) </Information>
+                        <Information Name="Paksha">Shukla</Information>
+                        <Information Name="Yoga ( End  ) ">Sadhya ( 11:53 ) </Information>
+                        <Information Name="Karana ( End  ) ">Vanija ( 08:43 )  , Visti ( 20:48 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:08 PM</Information>
+                        <Information Name="Auspicious Time">07.00 - 07.30 am , 10.30 - 12.00 pm, 12.00 - 01.00 pm , 05.00 - 06.00 pm, 06.00 - 07.30 pm , 09.00 - 10.00 pm</Information>
+                        <Information Name="Rahu Kala">09:00 AM - 10:30 AM</Information>
+                        <Information Name="Yama Kanda">01:30 PM - 03:00 PM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                        <Information Name="Date">Jan 29 2023</Information>
+                        <Information Name="Day">Sunday</Information>
+                        <Information Name="Nakshathra ( End  ) ">Bharani ( 20:20 ) </Information>
+                        <Information Name="Thithi ( End  ) ">Ashtami ( 09:05 ) </Information>
+                        <Information Name="Paksha">Shukla</Information>
+                        <Information Name="Yoga ( End  ) ">Subha ( 11:04 ) </Information>
+                        <Information Name="Karana ( End  ) ">Bava ( 09:05 )  , Balava ( 21:33 ) </Information>
+                        <Information Name="Sunrise">06:35 AM</Information>
+                        <Information Name="Sunset">06:08 PM</Information>
+                        <Information Name="Auspicious Time">07.30 - 10.00 am, 02.00 - 04.30 pm, 09.00 pm - 12.00 am</Information>
+                        <Information Name="Rahu Kala">04:30 PM - 06:00 PM</Information><Information Name="Yama Kanda">12:00 PM - 1:30 PM</Information>
+                    </Panchang-Information>
+                    <Panchang-Information>
+                            <Information Name="Date">Jan 30 2023</Information>
+                            <Information Name="Day">Monday</Information>
+                            <Information Name="Nakshathra ( End  ) ">Krithika ( 22:15 ) </Information>
+                            <Information Name="Thithi ( End  ) ">Navami ( 10:11 ) </Information>
+                            <Information Name="Paksha">Shukla</Information>
+                            <Information Name="Yoga ( End  ) ">Sukla ( 10:47 ) </Information>
+                            <Information Name="Karana ( End  ) ">Kaulava ( 10:11 )  , Taitula ( 22:59 ) </Information>
+                            <Information Name="Sunrise">06:35 AM</Information>
+                            <Information Name="Sunset">06:09 PM</Information>
+                            <Information Name="Auspicious Time">06.00 - 07.00 am , 12.00 - 02.00 pm, 06.00 - 09.00 pm , 10.00 - 11.00 pm</Information>
+                            <Information Name="Rahu Kala">07:30 AM - 09:00 AM</Information>
+                            <Information Name="Yama Kanda">10:30 AM - 12:00 AM</Information>
+                        </Panchang-Information>
+                        <Panchang-Information>
+                            <Information Name="Date">Jan 31 2023</Information>
+                            <Information Name="Day">Tuesday</Information>
+                            <Information Name="Nakshathra ( End  ) ">Rohini ( 24:39 ) </Information>
+                            <Information Name="Thithi ( End  ) ">Dasami ( 11:54 ) </Information>
+                            <Information Name="Paksha">Shukla</Information>
+                            <Information Name="Yoga ( End  ) ">Brahma ( 10:58 ) </Information>
+                            <Information Name="Karana ( End  ) ">Garija ( 11:54 )  , Vanija ( 24:55 ) </Information>
+                            <Information Name="Sunrise">06:35 AM</Information>
+                            <Information Name="Sunset">06:09 PM</Information>
+                            <Information Name="Auspicious Time">10.30 - 11.00 am, 12.00 - 01.00 pm , 04.30 - 06.00 pm , 07.00 - 08.00 pm</Information>
+                            <Information Name="Rahu Kala">03:00 PM - 4:30 PM</Information>
+                            <Information Name="Yama Kanda">09:00 AM - 10:30 AM</Information>
+                        </Panchang-Information>
+       </Month>
+    </Panchang>
+</Astrosoft>
