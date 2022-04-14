@@ -1,10 +1,27 @@
+h1 
+{
+    display:flex;
+    align-items:center;
+    background-color: yellowgreen;
+}
+table 
+{ 
+    border-collapse: collapse;
+    border-color: grey;
+    background: white;
+    color: blue;
+}
+th,td
+{
+    font-size:24;
+}
 body 
 {
     position:relative;
     display:flex;
     justify-content:center;
     align-items:center;
-    height:100vh;
+    height:50vh;
     font-family: sans-serif;
     background:url("Assets/Logo.png") no-repeat center/cover;
     overflow:hidden;
@@ -24,7 +41,7 @@ body::before
 .calendar
 {
     position:absolute;
-    width: 300px;
+    width: 1000px;
     background-color:aliceblue;
     box-sizing: border-box;
     box-shadow: 0 5px 50px rgba(0,0,0,0.5);
@@ -32,41 +49,13 @@ body::before
     overflow:hidden;
     transform:scale(1.35);
 }
-.calendar-picture
-{
-    position:relative;
-    height:200px;
-    padding:20px;
-    color:aliceblue;
-    background: black url("Assets/Logo2.png") no-repeat center/cover;
-    text-shadow:0 2px 2px rgba(0,0,0,0.2);
-    box-sizing:border-box;
-}
-.calendar-picture::before
-{
-    content:"";
-    left:0;
-    top: 0;
-    right:0;
-    bottom:0;
-    position:absolute;
-    background: linear-gradient(to top,rgba(0,0,0,0.25),rgba(0,0,0,0.1));
-}
-.calendar-picture h2
-{
-    margin:0;
-}
-.calendar-picture h3
-{
-    margin:0;
-    font-weight:500;
-}
+
 .calendar_date
 {
     padding: 20px;
     display:grid;
     grid-template-columns:repeat(auto-fit , minmax(25px,1fr));
-    grid-gap:10px;
+    grid-gap:120px;
     box-sizing:border-box;
 }
 .calendar_day
@@ -74,7 +63,7 @@ body::before
     display:flex;
     align-items:center;
     justify-content:center;
-    height:25px;
+    height:50px;
     font-weight:600;
     color:black;
 }
@@ -87,7 +76,7 @@ body::before
     display:flex;
     align-items:center;
     justify-content: center;
-    height:25px;
+    height:50px;
     color:black;
 }
 .calendar_details
@@ -117,14 +106,3 @@ body::before
     font-weight: 700;
     cursor:pointer;
 }
-button {
-    margin-top: 20px;
-    line-height: 60px;
-    font-weight: bold;
-    padding: 0 40px;
-    background: salmon;
-    border: none;
-  }
-  button:hover {
-    background: lightsalmon;
-  }
