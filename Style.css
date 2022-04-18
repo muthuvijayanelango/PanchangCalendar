@@ -1,3 +1,25 @@
+html
+{
+    scrollbar-width: normal;
+    scrollbar-color: white,grey;
+}
+html::-webkit-scrollbar
+{
+    width:4vw;
+}
+html::-webkit-scrollbar-thumb
+{
+    background-color: #777;
+}
+html::-webkit-scrollbar-track
+{
+    background-color: #333;
+}
+html::-webkit-scrollbar-thumb:hover
+{
+    background-color: #555;
+}
+
 h1 
 {
     display:flex;
@@ -15,6 +37,7 @@ th,td
 {
     font-size:24;
 }
+
 body 
 {
     position:relative;
@@ -41,7 +64,8 @@ body::before
 .calendar
 {
     position:absolute;
-    width: 1000px;
+    width: 1632px;
+    height: 2304px;
     background-color:aliceblue;
     box-sizing: border-box;
     box-shadow: 0 5px 50px rgba(0,0,0,0.5);
