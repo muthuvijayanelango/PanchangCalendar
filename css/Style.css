@@ -1,0 +1,21 @@
+html
+{
+    overflow-y:scroll;
+}
+h1 
+{
+    display:flex;
+    align-items:center;
+    background-color: yellowgreen;
+}
+table 
+{ 
+    border-collapse: collapse;
+    border-color: grey;
+    background: white;
+    color: blue;
+}
+th,td
+{
+    font-size:24;
+}
