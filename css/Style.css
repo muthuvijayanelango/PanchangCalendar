@@ -9,13 +9,46 @@ h1
     background-color: yellowgreen;
 }
 table 
-{ 
-    border-collapse: collapse;
-    border-color: grey;
+{
     background: white;
     color: blue;
 }
-th,td
+.abc,.abc th,.abc td
+{
+    border: 1px solid gray;
+}
+#footer 
+{
+    border-style: solid;
+    border-color: grey;
+    position: static;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    background: white;
+}
+th
 {
     font-size:24;
+}
+td
+{
+    font-size:medium;
+    font-weight: 200;
+} 
+.date
+{
+    font-size:70px;
+    font-weight: 20;
+}
+.Nakshatra
+{
+    font-size:30px;
+    font-weight: 20;
+}
+.Yoga
+{
+    font-size:20px;
+    font-weight: 10;
 }
