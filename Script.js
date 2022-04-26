@@ -77,14 +77,14 @@ function generateCalendar(xml)
     var tbl = document.createElement("table");
     var tblBody = document.createElement("tbody");
     var prek = 0;
+    var element=document.createElement("td");
     
-        //var row = document.createElement("tr1");
-        
         for(var k=0; k<=days; k++)
         {
         //var cell = document.createElement("td");
         var weekday = x[k].getElementsByTagName("Information")[1].childNodes[0].nodeValue;
-        var element=document.createElement("td");
+        //var element=document.createElement("td");
+        
         if(prek != k && weekday === "Sunday")
         {
         var element=document.createElement("tr");
@@ -96,25 +96,45 @@ function generateCalendar(xml)
         
         else
         {
-            var element=document.createElement("td");
-            //var element=document.createElement("td");
+        var element=document.createElement("td");
+        var Nakshathra=document.createElement("div");
+        var Thithi=document.createElement("div");
+        var Yoga=document.createElement("div");
+        var Karna=document.createElement("div");
         //obj.dt === k ? element.className="calendar_number calendar_number--current":(element.className="calendar_number");
         //var day = dayArr[k]
+        element.className ="date";
         element.appendChild(document.createTextNode(k+1));
-        var Nakshathra = x[k].getElementsByTagName("Information")[2].childNodes[0].nodeValue; 
-	    var Thithi = x[k].getElementsByTagName("Information")[3].childNodes[0].nodeValue; 
-	    var Yoga = x[k].getElementsByTagName("Information")[5].childNodes[0].nodeValue; 
-	    var Karana = x[k].getElementsByTagName("Information")[6].childNodes[0].nodeValue;
-        //document.getElementById("lc").appendChild(cell);
+        var Nakshathra_Value = x[k].getElementsByTagName("Information")[2].childNodes[0].nodeValue; 
+	    var Thithi_Value = x[k].getElementsByTagName("Information")[3].childNodes[0].nodeValue; 
+	    var Yoga_Value = x[k].getElementsByTagName("Information")[5].childNodes[0].nodeValue; 
+	    var Karana_Value = x[k].getElementsByTagName("Information")[6].childNodes[0].nodeValue;
         document.getElementById("lc").appendChild(element);
-        element.appendChild(document.createTextNode('\n'+ Nakshathra));
-        element.appendChild(document.createTextNode('\n'+ Thithi));
-        element.appendChild(document.createTextNode('\n'+ Yoga));
-        element.appendChild(document.createTextNode('\n'+ Karana));
+        if(element.innerText != null)
+        {
+            
+            Nakshathra.appendChild(document.createTextNode('\n'+ Nakshathra_Value));
+            Nakshathra.className ="Nakshatra";
+            document.getElementById("lc").appendChild(Nakshathra);
+            Thithi.appendChild(document.createTextNode('\n'+ Thithi_Value));
+            Thithi.className ="Nakshatra";
+            document.getElementById("lc").appendChild(Thithi);
+            Yoga.appendChild(document.createTextNode('\n'+ Yoga_Value));
+            Yoga.className ="Yoga";
+            document.getElementById("lc").appendChild(Yoga);
+            Karna.appendChild(document.createTextNode('\n'+ Karana_Value));
+            Karna.className ="Yoga";
+            document.getElementById("lc").appendChild(Karna);
+        }
+        
+        //element.appendChild(document.createTextNode('\n'+ Nakshathra));
+        //element.appendChild(document.createTextNode('\n'+ Thithi));
+        //element.appendChild(document.createTextNode('\n'+ Yoga));
+        //element.appendChild(document.createTextNode('\n'+ Karana)); 
         
         }
         
     }
-  
+     
     
 }
